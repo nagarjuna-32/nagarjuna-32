@@ -16,7 +16,7 @@
 
 <p align="center">
 
-  <a href="https://nagarjuna-32.github.io/Portfolio/">
+  <a href="https://nagarjuna-32.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
   </a>
 
