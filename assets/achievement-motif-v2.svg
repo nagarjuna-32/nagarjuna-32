@@ -60,12 +60,12 @@
   <rect width="1200" height="430" rx="20" fill="url(#ach-bg)"/>
   <rect x=".5" y=".5" width="1199" height="429" rx="19.5" fill="none" stroke="#C77B9B" stroke-opacity=".16"/>
 
-  <!-- Flipkart GRiD 7.0 — hero card -->
+  <!-- NeuroGen AI — hero card -->
   <g class="ach-in a1"><g transform="translate(24 24)">
     <g clip-path="url(#ach-clip-a)">
       <rect width="700" height="250" fill="#190B12"/>
       <rect width="700" height="250" fill="url(#ach-glow-a)"/>
-      <text class="ach-serif" x="684" y="124" text-anchor="end" font-size="128" font-weight="300" letter-spacing="-6" fill="url(#ach-outline)">GRiD 7.0</text>
+      <text class="ach-serif" x="684" y="124" text-anchor="end" font-size="110" font-weight="300" letter-spacing="-4" fill="url(#ach-outline)">NeuroGen</text>
       <rect x="-300" y="0" width="260" height="250" fill="url(#ach-sheen)" transform="skewX(-18)">
         <animate attributeName="x" values="-300;900;900" keyTimes="0;.35;1" dur="9s" begin="2s" repeatCount="indefinite"/>
       </rect>
@@ -73,25 +73,25 @@
     <rect x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="#C77B9B" stroke-opacity=".38"/>
     <rect class="ach-trace-a" x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <rect x="40" y="0" width="300" height="1" fill="url(#ach-hair)"/>
-    <text class="ach-mono" x="36" y="154" font-size="12" letter-spacing="2.6" fill="#C77B9B">FLIPKART · ENGINEERING CHALLENGE</text>
-    <text class="ach-serif" x="34" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F8F0F3">National Semi-Finalist</text>
-    <text class="ach-sans" x="36" y="230" font-size="14" fill="#B6A3AC">Flipkart GRiD 7.0</text>
+    <text class="ach-mono" x="36" y="154" font-size="12" letter-spacing="2.6" fill="#C77B9B">AI · BIOINFORMATICS &amp; RESEARCH</text>
+    <text class="ach-serif" x="34" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F8F0F3">NeuroGen AI Platform</text>
+    <text class="ach-sans" x="36" y="230" font-size="14" fill="#B6A3AC">Deep learning for genomics &amp; clinical data intelligence</text>
   </g></g>
 
-  <!-- Myntra WeForShe HackerRamp 2026 -->
+  <!-- Placement AI -->
   <g class="ach-in a2"><g transform="translate(700 24)">
     <g transform="translate(24 0)">
       <g clip-path="url(#ach-clip-b)">
         <rect width="476" height="250" fill="#190B12"/>
         <rect width="476" height="250" fill="url(#ach-glow-b)"/>
-        <text class="ach-serif" x="490" y="132" text-anchor="end" font-size="160" font-style="italic" font-weight="300" letter-spacing="-6" fill="none" stroke="#E5B5C7" stroke-opacity=".3">100</text>
+        <text class="ach-serif" x="490" y="132" text-anchor="end" font-size="160" font-style="italic" font-weight="300" letter-spacing="-6" fill="none" stroke="#E5B5C7" stroke-opacity=".3">AI</text>
       </g>
       <rect x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="#C77B9B" stroke-opacity=".3"/>
       <rect class="ach-trace-b" x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
       <rect x="40" y="0" width="220" height="1" fill="url(#ach-hair)"/>
-      <text class="ach-mono" x="32" y="154" font-size="12" letter-spacing="2.6" fill="#C77B9B">MYNTRA · WEFORSHE HACKERRAMP 2026</text>
-      <text class="ach-serif" x="30" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Top 100 Team</text>
-      <text class="ach-sans" x="32" y="230" font-size="14" fill="#B6A3AC">StarCloset — explainable AI fashion assistant</text>
+      <text class="ach-mono" x="32" y="154" font-size="12" letter-spacing="2.6" fill="#C77B9B">FULL-STACK · CAREER PLATFORM</text>
+      <text class="ach-serif" x="30" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Placement AI</text>
+      <text class="ach-sans" x="32" y="230" font-size="14" fill="#B6A3AC">Resume analysis, interview agent &amp; coding mentor</text>
     </g>
   </g></g>
 
@@ -102,33 +102,33 @@
   <g class="ach-in a3 ach-sans" font-size="13" fill="#B6A3AC">
     <g transform="translate(36 300)">
       <circle cx="0" cy="0" r="3.5" fill="#E5B5C7"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">ACADEMICS</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">9.10</text>
-      <text y="102">CGPA · B.Tech AI &amp; ML</text>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">CODEBASE</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">46+</text>
+      <text y="102">repositories built</text>
     </g>
     <g transform="translate(266 300)">
       <circle cx="0" cy="0" r="3.5" fill="#E5B5C7"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">LEETCODE</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">400+</text>
-      <text y="102">peak contest rating 1321</text>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">ACTIVITY</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">600+</text>
+      <text y="102">GitHub contributions</text>
     </g>
     <g transform="translate(496 300)">
       <circle cx="0" cy="0" r="3.5" fill="#E5B5C7"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">GEEKSFORGEEKS</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">400+</text>
-      <text y="102">score 950 · rating 1464</text>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">LEETCODE</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">500+</text>
+      <text y="102">DSA problem goal</text>
     </g>
     <g transform="translate(726 300)">
       <circle cx="0" cy="0" r="3.5" fill="#E5B5C7"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">CODECHEF</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">415+</text>
-      <text y="102">problems solved</text>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">CLOUD &amp; OPS</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">Docker</text>
+      <text y="102">Linux · CI/CD · Actions</text>
     </g>
     <g transform="translate(956 300)">
       <circle cx="0" cy="0" r="3.5" fill="#E5B5C7"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">HACKERRANK</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">5★</text>
-      <text y="102">C · Python · Java</text>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#C77B9B">GEN AI</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F8F0F3">Agents</text>
+      <text y="102">LangChain · OpenAI · Whisper</text>
     </g>
   </g>
 </svg>

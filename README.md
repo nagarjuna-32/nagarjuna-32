@@ -1,64 +1,67 @@
-<a href="https://sushmitadasari.github.io/Sushmitadasari/">
-  <img src="assets/sushmita-hero-portrait.svg" width="100%" alt="Sri Sushmita Dasari — AI/ML Engineer, Full-Stack Developer and Creative Technologist. Engineering intelligence. Designing experiences.">
+<a href="https://nagarjuna-32.github.io/Portfolio/">
+  <img src="assets/nagarjuna-hero-portrait.svg" width="100%" alt="Nagarjuna N — Full-Stack Developer, Cloud-Native, AI Products. Engineering intelligence. Delivering scalable systems.">
 </a>
 
 <p align="center">
-  <a href="https://sushmitadasari.github.io/Sushmitadasari/"><img src="https://img.shields.io/badge/Portfolio-sushmitadasari.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
-  <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/"><img src="https://img.shields.io/badge/LinkedIn-sushmita--dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
-  <a href="https://leetcode.com/u/sushmita_dasari/"><img src="https://img.shields.io/badge/LeetCode-sushmita__dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile sushmita_dasari"></a>
-  <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-sushmitadasari17@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email sushmitadasari17@gmail.com"></a>
+  <a href="https://nagarjuna-32.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-nagarjuna--32.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
+  <a href="https://www.linkedin.com/in/naga-arjuna-n"><img src="https://img.shields.io/badge/LinkedIn-naga--arjuna--n-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
+  <a href="https://github.com/nagarjuna-32"><img src="https://img.shields.io/badge/GitHub-nagarjuna--32-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
+  <a href="https://leetcode.com/u/nagarjuna-32/"><img src="https://img.shields.io/badge/LeetCode-nagarjuna--32-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile"></a>
+  <a href="mailto:acarjunarjun@gmail.com"><img src="https://img.shields.io/badge/Email-acarjunarjun@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email acarjunarjun@gmail.com"></a>
 </p>
 
-<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
-<img src="assets/about-intro.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Nagarjun.">
+<img src="assets/about-intro.svg" width="100%" alt="About: AI &amp; Full-Stack Developer passionate about building production-ready software, AI-powered applications, and scalable cloud-native systems. Building NeuroGen AI, AI Placement, and KSLU Student Resource platform. Primary language Python; Full-stack in FastAPI and React; drawn to Cloud Computing, DevOps and System Design.">
 
-<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
-<img src="assets/achievement-motif-v2.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
+<img src="assets/title-recognition.svg" width="100%" alt="02 Highlights — Proof, on the record.">
+<img src="assets/achievement-motif-v2.svg" width="100%" alt="NeuroGen AI Bioinformatics &amp; Research Platform; Placement AI Career Platform; 46+ Repositories; 600+ GitHub Contributions; 500+ LeetCode DSA Goal; Docker &amp; Cloud DevOps; GenAI Agents with LangChain, OpenAI &amp; Whisper.">
 
 <img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
 
-<img src="assets/project-policyguard-v2.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
-
-<a href="https://github.com/Sushmitadasari/Payment-gateway-system-Project"><img src="assets/project-payment-gateway-v2.svg" width="100%" alt="Payment Gateway System: UPI and card payments on a strict processing, success or failed state machine. 1,000+ transactions, 99.8% uptime, 3x throughput. Node.js, Express, PostgreSQL, React, Docker."></a>
+<a href="https://github.com/nagarjuna-32/Neurogen-AI"><img src="assets/project-policyguard-v2.svg" width="100%" alt="NeuroGen AI: AI-powered Bioinformatics &amp; Research Platform for Clinical Intelligence. Brain cancer genomics research pipelines &amp; deep learning. Python, PyTorch, FastAPI, React."></a>
 <p align="center">
-  <a href="https://github.com/Sushmitadasari/Payment-gateway-system-Project"><img src="https://img.shields.io/badge/Repository-Payment_Gateway-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Payment Gateway repository"></a>
-  <a href="https://www.youtube.com/watch?v=FUOZyQT5fNI"><img src="https://img.shields.io/badge/Watch-Architecture_walkthrough-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=youtube" alt="Payment Gateway architecture walkthrough video"></a>
+  <a href="https://github.com/nagarjuna-32/Neurogen-AI"><img src="https://img.shields.io/badge/Repository-NeuroGen_AI-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="NeuroGen AI repository"></a>
 </p>
 
-<a href="https://github.com/Sushmitadasari/weforshe-starcloset"><img src="assets/project-starcloset-v2.svg" width="100%" alt="StarCloset, Myntra Bharat AI: team entry to Myntra WeForShe HackerRamp 2026, Top 100. A rules-first, explainable fashion recommender that understands Hinglish occasions. React 19, TypeScript, Go, PostgreSQL, Redis, optional Gemini."></a>
+<a href="https://github.com/nagarjuna-32/Placement-AI"><img src="assets/project-payment-gateway-v2.svg" width="100%" alt="Placement AI: AI-driven Placement Platform with Resume Analysis, Mock Interviews &amp; Coding Assistant. TypeScript, React, Next.js, OpenAI API, Tailwind."></a>
 <p align="center">
-  <a href="https://myntra-ai.vercel.app"><img src="https://img.shields.io/badge/Live_demo-myntra--ai.vercel.app-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="StarCloset live demo"></a>
-  <a href="https://github.com/Sushmitadasari/weforshe-starcloset"><img src="https://img.shields.io/badge/Repository-StarCloset-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="StarCloset repository"></a>
+  <a href="https://github.com/nagarjuna-32/Placement-AI"><img src="https://img.shields.io/badge/Repository-Placement_AI-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Placement AI repository"></a>
 </p>
 
-<a href="https://github.com/Sushmitadasari/Multi-Tenant-SaaS-Platform"><img src="assets/project-multitenant-saas-v2.svg" width="100%" alt="Multi-Tenant SaaS Platform: tenant-scoped middleware and four-level JWT/RBAC. 50+ concurrent tenants, zero unauthorised-access incidents, setup under 2 minutes. Node.js, React, PostgreSQL, Docker Compose."></a>
+<a href="https://github.com/nagarjuna-32/kslu-website"><img src="assets/project-starcloset-v2.svg" width="100%" alt="KSLU Website: Student Resource &amp; Academic Platform for Karnataka State Law University. JavaScript, Node.js, Express, PostgreSQL, HTML5, CSS3."></a>
 <p align="center">
-  <a href="https://github.com/Sushmitadasari/Multi-Tenant-SaaS-Platform"><img src="https://img.shields.io/badge/Repository-Multi--Tenant_SaaS-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Multi-Tenant SaaS repository"></a>
+  <a href="https://github.com/nagarjuna-32/kslu-website"><img src="https://img.shields.io/badge/Repository-KSLU_Website-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="KSLU Website repository"></a>
+</p>
+
+<a href="https://github.com/nagarjuna-32/AI-laptop-assistance"><img src="assets/project-multitenant-saas-v2.svg" width="100%" alt="AI Laptop Assistance: Voice-Controlled AI Agent executing desktop operations and operating system tasks. Python, Whisper, SpeechRecognition, OS Automation."></a>
+<p align="center">
+  <a href="https://github.com/nagarjuna-32/AI-laptop-assistance"><img src="https://img.shields.io/badge/Repository-AI_Laptop_Assistance-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="AI Laptop Assistance repository"></a>
 </p>
 
 <img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
-<img src="assets/tech-constellation-v2.svg" width="100%" alt="Tech stack. Languages: Java (primary), Python, C, C++. AI/ML: LLMs, NLP, Machine Learning, Deep Learning. Frontend: React, JavaScript, HTML, CSS. Backend: Node.js, Express, REST APIs, Microservices, JWT. Data and infrastructure: PostgreSQL, MongoDB, MySQL, Docker, AWS. Tools: Git, GitHub, Postman.">
+<img src="assets/tech-constellation-v2.svg" width="100%" alt="Tech stack. Languages: Python (primary), JavaScript, TypeScript, SQL, C. AI/ML: OpenAI API, LangChain, Whisper, AI Agents, NLP. Frontend: React, Vite, Tailwind CSS, HTML5, CSS3. Backend: FastAPI, Flask, REST APIs, Node.js, Microservices. Data and Cloud: PostgreSQL, Supabase, Docker, Redis, Neon, Cloudflare R2, Vercel. DevOps: Linux, GitHub Actions, Nginx, Git, LeetCode DSA.">
 
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
-<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating my real public GitHub contributions over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
+<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating real public GitHub contributions for nagarjuna-32 over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushmitadasari&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for Sushmitadasari: stars, commits, pull requests and issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarjuna-32&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for nagarjuna-32: stars, commits, pull requests and issues">
 </p>
 
-<img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Sixteen credentials, verified.">
-<a href="https://sushmitadasari.github.io/Sushmitadasari/#experience"><img src="assets/certifications.svg" width="100%" alt="Certifications: AWS Certified AI Practitioner and AWS Academy Cloud Foundations; NPTEL DBMS, Fundamentals of AI and Deep Learning; MongoDB Associate Developer; Oracle Java Foundations and Database Foundations; Cisco HTML, CSS, JavaScript 1 and 2, Python 1; GitHub Foundations; Pearson IT Specialist HTML and CSS; Udemy Microsoft Azure Hands-On."></a>
+<img src="assets/title-certifications.svg" width="100%" alt="06 Learning &amp; Focus — Continuous growth, verified.">
+<a href="https://nagarjuna-32.github.io/Portfolio/"><img src="assets/certifications.svg" width="100%" alt="Learning &amp; Focus: Cloud Computing &amp; DevOps (Docker, Kubernetes, Cloudflare); AI Products (NeuroGen AI, Placement AI, Whisper); Backend (FastAPI, Node.js, AsyncIO); Databases (PostgreSQL, MySQL, Supabase, Neon, Redis); DevOps (Linux Shell, GitHub Actions CI/CD, Nginx); DSA &amp; LeetCode (500+ Goal, Algorithms, Python/C); Cybersecurity (Traffic Analysis, DevGraph Sentinel); System Design (Scalable SaaS, Distributed Caching)."></a>
 
-<img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
+<img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something extraordinary.">
 
 <p align="center">
-  <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-sushmitadasari17@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email sushmitadasari17@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/"><img src="https://img.shields.io/badge/LinkedIn-sushmita--dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
-  <a href="https://leetcode.com/u/sushmita_dasari/"><img src="https://img.shields.io/badge/LeetCode-sushmita__dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile sushmita_dasari"></a>
-  <a href="https://sushmitadasari.github.io/Sushmitadasari/"><img src="https://img.shields.io/badge/Portfolio-sushmitadasari.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
-  <a href="https://videoportfolio-kohl.vercel.app/"><img src="https://img.shields.io/badge/Video_portfolio-vercel.app-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Video portfolio"></a>
+  <a href="mailto:acarjunarjun@gmail.com"><img src="https://img.shields.io/badge/Email-acarjunarjun@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email acarjunarjun@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/naga-arjuna-n"><img src="https://img.shields.io/badge/LinkedIn-naga--arjuna--n-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
+  <a href="https://github.com/nagarjuna-32"><img src="https://img.shields.io/badge/GitHub-nagarjuna--32-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
+  <a href="https://leetcode.com/u/nagarjuna-32/"><img src="https://img.shields.io/badge/LeetCode-nagarjuna--32-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile"></a>
+  <a href="https://nagarjuna-32.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-nagarjuna--32.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
+  <a href="https://nagarjuna-32.vercel.app/"><img src="https://img.shields.io/badge/Vercel-nagarjuna--32.vercel.app-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Vercel deployment"></a>
 </p>
 
-<a href="https://sushmitadasari.github.io/Sushmitadasari/">
-  <img src="assets/footer-signature-v2.svg" width="100%" alt="Sushmita — Building systems that can explain themselves.">
+<a href="https://nagarjuna-32.github.io/Portfolio/">
+  <img src="assets/footer-signature-v2.svg" width="100%" alt="Nagarjun — Building production-ready software, AI products &amp; scalable systems.">
 </a>

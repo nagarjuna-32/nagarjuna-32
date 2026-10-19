@@ -1,7 +1,7 @@
 {
-  "name": "github-jet-heatmap",
+  "name": "nagarjuna-32",
   "version": "1.0.0",
-  "description": "Generates an animated jet-over-contribution-grid SVG from real GitHub contribution data",
+  "description": "GitHub profile README and dynamic contribution visualizer for Nagarjuna N (@nagarjuna-32)",
   "type": "module",
   "engines": {
     "node": ">=18"

@@ -22,65 +22,65 @@
   <g class="ce-tile" style="animation-delay:0.20s"><g transform="translate(40 40)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.00s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">AWS</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">CLOUD</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/><circle cx="227" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">AWS Certified AI Practitioner</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">AWS Academy Graduate —</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#E5B5C7">Cloud Foundations</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Cloud Computing &amp; DevOps</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Docker Containers —</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#E5B5C7">Kubernetes &amp; Cloudflare</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.32s"><g transform="translate(325 40)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.35s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">NPTEL</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">AI PRODUCTS</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/><circle cx="227" cy="31" r="3.5" fill="#C77B9B"/><circle cx="216" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Database Management System</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Fundamentals of AI</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B6A3AC">Deep Learning</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">NeuroGen AI Bioinformatics</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Placement AI Career Agent</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B6A3AC">Whisper Voice Assistant</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.44s"><g transform="translate(610 40)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.70s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">MONGODB</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">BACKEND</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Certified Associate</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Developer</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">FastAPI &amp; Python APIs</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Node.js &amp; Microservices</text><text class="ce-sans" x="22" y="130" fill="#B6A3AC">AsyncIO &amp; WebSockets</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.56s"><g transform="translate(895 40)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.05s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">ORACLE</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">DATABASES</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/><circle cx="227" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Java Foundations Associate</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Foundations Associate —</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#E5B5C7">Database</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">PostgreSQL &amp; MySQL</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Supabase &amp; Neon DB —</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#E5B5C7">Redis In-Memory Cache</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.68s"><g transform="translate(40 230)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.40s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">CISCO</text>
-    <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/><circle cx="227" cy="31" r="3.5" fill="#C77B9B"/><circle cx="216" cy="31" r="3.5" fill="#C77B9B"/><circle cx="205" cy="31" r="3.5" fill="#C77B9B"/><circle cx="194" cy="31" r="3.5" fill="#C77B9B"/>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">DEVOPS</text>
+    <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/><circle cx="227" cy="31" r="3.5" fill="#C77B9B"/><circle cx="216" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">HTML · CSS Essentials</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">JavaScript Essentials 1 &amp; 2</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B6A3AC">Python Essentials 1</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Linux Shell &amp; Admin</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">GitHub Actions CI/CD</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B6A3AC">Nginx Reverse Proxy</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.80s"><g transform="translate(325 230)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.75s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">GITHUB</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">DSA &amp; LEETCODE</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">GitHub Foundations</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">500+ LeetCode Target</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Data Structures &amp; Algorithms</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B6A3AC">Python &amp; C Solutions</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.92s"><g transform="translate(610 230)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:4.10s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">PEARSON</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">CYBERSECURITY</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">IT Specialist —</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#E5B5C7">HTML and CSS</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Network Traffic Analysis</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Threat Prediction Models —</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#E5B5C7">DevGraph Sentinel</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:1.04s"><g transform="translate(895 230)">
     <rect width="265" height="170" rx="14" fill="#190B12" stroke="#C77B9B" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:4.45s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">UDEMY</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#C77B9B">SYSTEM DESIGN</text>
     <circle cx="238" cy="31" r="3.5" fill="#C77B9B"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#C77B9B" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Microsoft Azure Hands-On</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">AZ-900 · AZ-104 · AZ-305</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F8F0F3">Scalable SaaS Architectures</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F8F0F3">Distributed Systems &amp; Cache</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#B6A3AC">2026 Production Goals</text>
   </g></g>
 </svg>

@@ -39,15 +39,15 @@
     <rect x="720" width="480" height="370" fill="url(#p1-grid)"/>
     <rect width="1200" height="370" fill="url(#p1-glow)"/>
     <g class="p1-in p1-d1">
-      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">01 · AI · NLP · LLM · 2026</text>
-      <text class="p1-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F8F0F3">PolicyGuard AI</text>
-      <text class="p1-sans" x="56" y="166" font-size="17" fill="#B6A3AC">Turns long, dense policy documents into answers you can check.</text>
-      <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">BUILT ›</tspan> LLM Q&amp;A + key-info extraction, 10+ doc types, web/extension/mobile/desktop</text>
+      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">01 · AI · BIOINFORMATICS · DEEP LEARNING · 2026</text>
+      <text class="p1-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F8F0F3">NeuroGen AI</text>
+      <text class="p1-sans" x="56" y="166" font-size="17" fill="#B6A3AC">AI-powered Bioinformatics &amp; Research Platform for Clinical Intelligence.</text>
+      <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">BUILT ›</tspan> Brain cancer analysis, genomics research pipelines &amp; clinical data assistant</text>
       <line class="p1-draw" x1="56" y1="226" x2="680" y2="226" stroke="#C77B9B" stroke-opacity=".3"/>
-    <g transform="translate(56 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F8F0F3">500+</text><text class="p1-sans" y="24" font-size="12.5" fill="#B6A3AC">policy documents processed</text></g>
-    <g transform="translate(261 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F8F0F3">92%</text><text class="p1-sans" y="24" font-size="12.5" fill="#B6A3AC">accuracy</text></g>
-    <g transform="translate(466 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F8F0F3">60%</text><text class="p1-sans" y="24" font-size="12.5" fill="#B6A3AC">less manual review time</text></g>
-      <g class="p1-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="62" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="87" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">Python</text></g><g class="p1-chip" style="animation-delay:1.12s"><rect x="126" y="314" width="40" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="146" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">NLP</text></g><g class="p1-chip" style="animation-delay:1.24s"><rect x="175" y="314" width="40" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="195" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">LLM</text></g><g class="p1-chip" style="animation-delay:1.36s"><rect x="223" y="314" width="77" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="261" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">REST API</text></g><g class="p1-chip" style="animation-delay:1.48s"><rect x="308" y="314" width="159" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="387" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">8 policy categories</text></g>
+    <g transform="translate(56 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F8F0F3">GenAI</text><text class="p1-sans" y="24" font-size="12.5" fill="#B6A3AC">deep learning models</text></g>
+    <g transform="translate(261 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F8F0F3">FastAPI</text><text class="p1-sans" y="24" font-size="12.5" fill="#B6A3AC">high throughput backend</text></g>
+    <g transform="translate(466 266)"><text class="p1-serif" font-size="34" font-weight="300" fill="#F8F0F3">BioMed</text><text class="p1-sans" y="24" font-size="12.5" fill="#B6A3AC">research grade analysis</text></g>
+      <g class="p1-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="62" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="87" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">Python</text></g><g class="p1-chip" style="animation-delay:1.12s"><rect x="126" y="314" width="70" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="161" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">PyTorch</text></g><g class="p1-chip" style="animation-delay:1.24s"><rect x="204" y="314" width="70" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="239" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">FastAPI</text></g><g class="p1-chip" style="animation-delay:1.36s"><rect x="282" y="314" width="60" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="312" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">React</text></g><g class="p1-chip" style="animation-delay:1.48s"><rect x="350" y="314" width="140" height="26" rx="13" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/><text class="p1-mono" x="420" y="331" text-anchor="middle" font-size="11.5" fill="#E5B5C7">Bioinformatics</text></g>
     </g>
     <g class="p1-in p1-d2"><g transform="translate(0 35)">
       <g transform="translate(870 46)">
@@ -68,8 +68,8 @@
         </g>
         <g transform="translate(120 170)">
           <rect width="196" height="54" rx="10" fill="#190B12" fill-opacity=".92" stroke="#C77B9B" stroke-opacity=".35"/>
-          <text class="p1-mono" x="14" y="22" font-size="10.5" fill="#F8F0F3">Q · key clauses?</text>
-          <text class="p1-mono" x="14" y="40" font-size="10.5" fill="#E5B5C7">A · extracted from source</text>
+          <text class="p1-mono" x="14" y="22" font-size="10.5" fill="#F8F0F3">Model · NeuroGen Core</text>
+          <text class="p1-mono" x="14" y="40" font-size="10.5" fill="#E5B5C7">Status · Active Pipeline</text>
         </g>
       </g>
     </g></g>
