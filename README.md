@@ -1,5 +1,5 @@
 <a href="https://nagarjuna-32.github.io/Portfolio/">
-  <img src="assets/nagarjuna-hero-portrait.svg" width="100%" alt="Nagarjuna N — Full-Stack Developer, Cloud-Native, AI Products. Engineering intelligence. Delivering scalable systems.">
+  <img src="assets/nagarjuna-hero-portrait.svg" width="100%" alt="Nagarjuna — Full-Stack Developer, Cloud-Native, AI Products. Engineering intelligence. Delivering scalable systems.">
 </a>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="mailto:acarjunarjun@gmail.com"><img src="https://img.shields.io/badge/Email-acarjunarjun@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email acarjunarjun@gmail.com"></a>
 </p>
 
-<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Nagarjun.">
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Nagarjuna">
 <img src="assets/about-intro.svg" width="100%" alt="About: AI &amp; Full-Stack Developer passionate about building production-ready software, AI-powered applications, and scalable cloud-native systems. Building NeuroGen AI, AI Placement, and KSLU Student Resource platform. Primary language Python; Full-stack in FastAPI and React; drawn to Cloud Computing, DevOps and System Design.">
 
 <img src="assets/title-recognition.svg" width="100%" alt="02 Highlights — Proof, on the record.">
